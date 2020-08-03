@@ -1,0 +1,17 @@
+<!--pages/agreent/agreent.wxml-->
+<view>
+{{name}}
+</view>
+<view wx:for="{{students}}">
+{{item.name}}的年龄是{{item.age}}岁
+</view>
+<view>{{count}}</view>
+<button size="mini" bindtap="add">增加</button>
+<button size="mini" bindtap="jian">减少</button>
+<text>helll fklasdh f\n</text>
+<text>hello 李月芳</text>
+<text>dfhkjasd fasd\n</text>
+
+<button style="background:red">立即添加</button>
+<button size="mini">取消</button>
+  

@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/wxs/wxs",
+    "pages/time/time",
+    "pages/scroll/scroll",
+    "pages/test/test",
+    "pages/agreent/agreent",
+    "pages/profile/profile",
+    "pages/login/login"
+  
+   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "豆瓣评分",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
